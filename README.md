@@ -1,4 +1,4 @@
-# ifsc
+# rco20151
 Projeto desenvolvido na disciplina de [Redes de Computadores II](http://bit.ly/rco20151) do Curso Superior de Tecnologia em Sistemas de Telecomunicações do IFSC câmpus São José - primeiro semestre de 2015.
 
 Durante o semestre, são vistos os padrões e protocolos referentes, em especial, à camada de Enlace da arquitetura OSI:
